@@ -25,3 +25,5 @@ Conectar Conta GitHub
 Search for a repository to connect -> Connect
 Enable Automatic Deploy
 Deploy Branch
+
+ ![pagina do formulario](https://github.com/vlruiz108/criando-formulario/blob/master/CapadoReadme.PNG)
